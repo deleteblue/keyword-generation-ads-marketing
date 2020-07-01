@@ -1,2 +1,1 @@
-# keyword-generation-ads-marketing
-Generating keywords to show up ads with specific keywords in google searches. This is a DataCamp project.
+Link to DataCamp projects License: https://github.com/datacamp/courses-introduction-to-git-for-data-science/blob/master/LICENSE.md.
